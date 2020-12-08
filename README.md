@@ -1,15 +1,18 @@
-# AoE AOE Game Guard 1.0.1.3 - aoegguard.github.io
+# AoE AOE Game Guard 1.0.1.5
 
 ## Chống hack đế chế: 
- - Chống hack map
- - Chống các hình thức hack data như đẻ dân bằng BE/BG/BS, 
-đẻ phù thủy sét, cung A hero, ngựa chém hero, xây tất cả các nhà, sinh mọi loại quân từ đời 1.
+ + Chống hack map
+ + Chống các hình thức hack data như:
+ - đẻ dân bằng BE/BG/BS, đẻ phù thủy sét, cung A hero, ngựa chém hero
+ - xây tất cả các nhà, sinh mọi loại quân từ đời 1...
 
-## Cài đặt:
+## Cài đặt nhanh:
+ - Copy 2 file GGuard.dll vào EmpiresX.exe vào thư mục Đế Chế
+Vậy là Xong rồi, vào chơi như bình thường.
+
+## Cài đặt trên bản chuẩn:
  - Copy 2 file Patcher.exe và GGuard.dll vào thư mục Đế Chế
  - Chạy Patcher.exe để inject GGuard.dll vào EmpiresX.exe
-
-Vậy là Xong rồi, vào chơi như bình thường.
 
 ##### Chú ý: file empiresx.exe phải là file có dung luong 1.51MB ROR1.0 (bản Patch chơi được trên CGA)
 ##### Hoặc tải luôn bản đã path sẵn chỉ việc copy 2 file GGuard.dll vào EmpiresX.exe vào thư mục game là được.
