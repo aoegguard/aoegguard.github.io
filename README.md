@@ -1,4 +1,4 @@
-# AoE AOE Game Guard 1.0.1.5
+# AOE Game Guard - GGuard v1.0.1.5
 
 ## Chống hack đế chế: 
  + Chống hack map
